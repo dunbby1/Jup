@@ -1,0 +1,88 @@
+Uri: https://jup.ag/
+File Name: C:\Downloaded Web Sites\jup.ag\index.htm
+Content Type: text/html
+
+Uri: https://jup.ag/apple-icon-57x57.png
+File Name: C:\Downloaded Web Sites\jup.ag\apple-icon-57x57.png
+Content Type: image/png
+
+Uri: https://jup.ag/favicon-96x96.png
+File Name: C:\Downloaded Web Sites\jup.ag\favicon-96x96.png
+Content Type: image/png
+
+Uri: https://jup.ag/images/claim/claim-bg.png
+File Name: C:\Downloaded Web Sites\jup.ag\images\claim\claim-bg.png
+Content Type: image/png
+
+Uri: https://jup.ag/images/lfg-landing-hero-pattern.png
+File Name: C:\Downloaded Web Sites\jup.ag\images\lfg-landing-hero-pattern.png
+Content Type: image/png
+
+Uri: https://jup.ag/manifest.json
+File Name: C:\Downloaded Web Sites\jup.ag\manifest.json
+Content Type: application/json
+
+Uri: https://jup.ag/_next/static/chunks/13215-d35a8e10a19b2d1c.js
+File Name: C:\Downloaded Web Sites\jup.ag\_next\static\chunks\13215-d35a8e10a19b2d1c.js
+Content Type: application/javascript
+
+Uri: https://jup.ag/_next/static/chunks/28005-327c102be4f6f780.js
+File Name: C:\Downloaded Web Sites\jup.ag\_next\static\chunks\28005-327c102be4f6f780.js
+Content Type: application/javascript
+
+Uri: https://jup.ag/_next/static/chunks/36027-5173f6328fc052cf.js
+File Name: C:\Downloaded Web Sites\jup.ag\_next\static\chunks\36027-5173f6328fc052cf.js
+Content Type: application/javascript
+
+Uri: https://jup.ag/_next/static/chunks/59536-9a90898bb3996231.js
+File Name: C:\Downloaded Web Sites\jup.ag\_next\static\chunks\59536-9a90898bb3996231.js
+Content Type: application/javascript
+
+Uri: https://jup.ag/_next/static/chunks/67161-77dd3210f4f89058.js
+File Name: C:\Downloaded Web Sites\jup.ag\_next\static\chunks\67161-77dd3210f4f89058.js
+Content Type: application/javascript
+
+Uri: https://jup.ag/_next/static/chunks/94561-015629a9d9d21172.js
+File Name: C:\Downloaded Web Sites\jup.ag\_next\static\chunks\94561-015629a9d9d21172.js
+Content Type: application/javascript
+
+Uri: https://jup.ag/_next/static/chunks/94669-fc2bb15d9b3c2d9c.js
+File Name: C:\Downloaded Web Sites\jup.ag\_next\static\chunks\94669-fc2bb15d9b3c2d9c.js
+Content Type: application/javascript
+
+Uri: https://jup.ag/_next/static/chunks/framework-758fe3daf2c0fbe0.js
+File Name: C:\Downloaded Web Sites\jup.ag\_next\static\chunks\framework-758fe3daf2c0fbe0.js
+Content Type: application/javascript
+
+Uri: https://jup.ag/_next/static/chunks/main-bde40d1ae55888e2.js
+File Name: C:\Downloaded Web Sites\jup.ag\_next\static\chunks\main-bde40d1ae55888e2.js
+Content Type: application/javascript
+
+Uri: https://jup.ag/_next/static/chunks/pages/swap/[inOut]-186c147af75c9d7e.js
+File Name: C:\Downloaded Web Sites\jup.ag\_next\static\chunks\pages\swap\[inOut]-186c147af75c9d7e.js
+Content Type: application/javascript
+
+Uri: https://jup.ag/_next/static/chunks/pages/_app-ba8dede47635462f.js
+File Name: C:\Downloaded Web Sites\jup.ag\_next\static\chunks\pages\_app-ba8dede47635462f.js
+Content Type: application/javascript
+
+Uri: https://jup.ag/_next/static/chunks/polyfills-c67a75d1b6f99dc8.js
+File Name: C:\Downloaded Web Sites\jup.ag\_next\static\chunks\polyfills-c67a75d1b6f99dc8.js
+Content Type: application/javascript
+
+Uri: https://jup.ag/_next/static/chunks/webpack-268c240bc5735418.js
+File Name: C:\Downloaded Web Sites\jup.ag\_next\static\chunks\webpack-268c240bc5735418.js
+Content Type: application/javascript
+
+Uri: https://jup.ag/_next/static/css/550bd703f15405dc.css
+File Name: C:\Downloaded Web Sites\jup.ag\_next\static\css\550bd703f15405dc.css
+Content Type: text/css
+
+Uri: https://jup.ag/_next/static/LAET80SR1ZOZEv51HUZ0P/_buildManifest.js
+File Name: C:\Downloaded Web Sites\jup.ag\_next\static\LAET80SR1ZOZEv51HUZ0P\_buildManifest.js
+Content Type: application/javascript
+
+Uri: https://jup.ag/_next/static/LAET80SR1ZOZEv51HUZ0P/_ssgManifest.js
+File Name: C:\Downloaded Web Sites\jup.ag\_next\static\LAET80SR1ZOZEv51HUZ0P\_ssgManifest.js
+Content Type: application/javascript
+
